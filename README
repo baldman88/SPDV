@@ -1,0 +1,3 @@
+SPDV (serial port data viewer) -- program to visualize voltage changes 
+at the input of the ADC of the microcontroller which connected to the 
+computer through a serial port.
